@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation for Visual Prompt Tuning.
 
-![MoSA_demo](haha)
+![MoSA_demo](figure/demo.gif)
 
 ## Environment setup
 
